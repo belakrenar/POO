@@ -1,0 +1,11 @@
+/home/bela/NetBeansProjects/telefonica/src/main/java/exceptions/ErroNaLeituraException.java
+/home/bela/NetBeansProjects/telefonica/src/main/java/negocio/ListaTelefonica.java
+/home/bela/NetBeansProjects/telefonica/src/main/java/exceptions/ContatoNaoCadastradoException.java
+/home/bela/NetBeansProjects/telefonica/src/main/java/exceptions/ErroNaGravacaoException.java
+/home/bela/NetBeansProjects/telefonica/src/main/java/exceptions/ContatoJaCadastradoException.java
+/home/bela/NetBeansProjects/telefonica/src/main/java/apresentacao/Principal.java
+/home/bela/NetBeansProjects/telefonica/src/main/java/dados/Contato.java
+/home/bela/NetBeansProjects/telefonica/src/main/java/persistencia/ArquivoContatoDAO.java
+/home/bela/NetBeansProjects/telefonica/src/main/java/persistencia/ContatoDao.java
+/home/bela/NetBeansProjects/telefonica/src/main/java/exceptions/ErroArquivoException.java
+/home/bela/NetBeansProjects/telefonica/src/main/java/persistencia/EditorTexto.java

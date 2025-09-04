@@ -1,0 +1,11 @@
+negocio/ListaTelefonica.class
+exceptions/ErroNaLeituraException.class
+dados/Contato.class
+exceptions/ContatoNaoCadastradoException.class
+exceptions/ContatoJaCadastradoException.class
+apresentacao/Principal.class
+exceptions/ErroNaGravacaoException.class
+exceptions/ErroArquivoException.class
+persistencia/EditorTexto.class
+persistencia/ContatoDao.class
+persistencia/ArquivoContatoDAO.class
