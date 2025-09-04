@@ -1,0 +1,8 @@
+Dados/Juiz.class
+Dados/ProcessoSemJuizException.class
+Apresentacao/Principal.class
+Dados/Processo.class
+Dados/Pilha.class
+Dados/PilhaCheiaException.class
+Dados/PilhaVaziaException.class
+Negocio/SistemaProcessos.class
